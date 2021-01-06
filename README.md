@@ -34,15 +34,15 @@ I then created queries to present data for the below scenarios.  These queries a
 
 At this point I was starting to think that my boss was pulling my chain and that this was not real employee data, so I imported the database into pandas where I could perform some additional analysis.
 
-I created a histogram of salaries to see what salaries looked like back in the 80's and 90's.  The output is saved to the
+I created a histogram of salaries to see what salaries looked like back in the 80's and 90's.  The output is saved to the Salary Ranges file.
 
-![Salary Ranges](**EmployeeSQL**/output_data/salary_ranges.png)
+![](**EmployeeSQL**/output_data/salary_ranges.png)
 
 file. Wow, people did not make a lot back in the 80's.
 
-Next I computed the average salary per job title and graphed this in
+Next I computed the average salary per job title and graphed this in Average Salary
 
-![Average Salary](**EmployeeSQL**/output_data/average_salary_by_title.png)
+![](**EmployeeSQL**/output_data/average_salary_by_title.png)
 
 
 Most people working for PH were making between 48 - 60K.  
