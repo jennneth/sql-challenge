@@ -1,3 +1,4 @@
+NOTE: ignore the '**EmployeeSQL**' folder with the special characters, I am having some trouble removing it.  Everything needed is in the EmployeeSQL folder.
 # sql-challenge
 The purpose of this project is to analyze employee data from fictitious company Pewlett Hackard.  The employee data files are from 1980's and 1990's, and only available in csv format.
 
