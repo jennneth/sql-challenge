@@ -1,7 +1,7 @@
 # sql-challenge
 The purpose of this project is to analyze employee data from fictitious company Pewlett Hackard.  The employee data files are from 1980's and 1990's, and only available in csv format.
 
-As a first step in data engineering, I explored the datasets and built out an ![ERD](ERD-Employee-SQL-Challenge.png). As this was my first time using a free ERD software, I did have to make some adjustments after the initial model was formed.
+As a first step in data engineering, I explored the datasets and built out an ![ERD](**EmployeeSQL**/ERD-Employee-SQL-Challenge.png). As this was my first time using a free ERD software, I did have to make some adjustments after the initial model was formed.
 
     There are six tables within the dataset.  These include:
         employees: data about each employee
