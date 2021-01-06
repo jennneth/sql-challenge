@@ -36,13 +36,13 @@ At this point I was starting to think that my boss was pulling my chain and that
 
 I created a histogram of salaries to see what salaries looked like back in the 80's and 90's.  The output is saved to the Salary Ranges file.
 
-![](**EmployeeSQL**/output_data/salary_ranges.png)
+ ![](**EmployeeSQL**/output_data/salary_ranges.png)
 
-file. Wow, people did not make a lot back in the 80's.
+Wow, people did not make a lot back in the 80's.
 
 Next I computed the average salary per job title and graphed this in Average Salary
 
-![](**EmployeeSQL**/output_data/average_salary_by_title.png)
+ ![](**EmployeeSQL**/output_data/average_salary_by_title.png)
 
 
 Most people working for PH were making between 48 - 60K.  
