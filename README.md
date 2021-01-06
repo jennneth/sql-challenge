@@ -4,7 +4,7 @@ The purpose of this project is to analyze employee data from fictitious company 
 As a first step in data engineering, I explored the datasets and built out an ![ERD](/**EmployeeSQL**/ERD-Employee-SQL-Challenge.png).
 As this was my first time using a free ERD software, I did have to make some adjustments after the initial model was formed.
 
-    There are six tables within the dataset.  These include:
+There are six tables within the dataset.  These include:
         employees: data about each employee
         titles: all the valid titles used within the company and a title number
         departments: all valid department names and the department number
@@ -34,9 +34,15 @@ I then created queries to present data for the below scenarios.  These queries a
 
 At this point I was starting to think that my boss was pulling my chain and that this was not real employee data, so I imported the database into pandas where I could perform some additional analysis.
 
-I created a histogram of salaries to see what salaries looked like back in the 80's and 90's.  The output is saved to the ![Salary Ranges](output_data/salary_ranges.png) file. Wow, people did not make a lot back in  teh 80's.
+I created a histogram of salaries to see what salaries looked like back in the 80's and 90's.  The output is saved to the
 
-Next I computed the average salary per job title and graphed this in ![Average Salary](**EmployeeSQL**/output_data/average_salary_by_title.png)
+![Salary Ranges](**EmployeeSQL**/output_data/salary_ranges.png)
+
+file. Wow, people did not make a lot back in the 80's.
+
+Next I computed the average salary per job title and graphed this in
+
+![Average Salary](**EmployeeSQL**/output_data/average_salary_by_title.png)
 
 
 Most people working for PH were making between 48 - 60K.  
